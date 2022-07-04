@@ -1,0 +1,10 @@
+=> [
+     [
+       "[34mname[39m" => "[32mNike Shoes[39m",
+       "[34mdescription[39m" => "[32mhigh cut shoes[39m",
+       "[34mprice[39m" => "[32m1200[39m",
+       "[34mquantity[39m" => "[32m10[39m",
+       "[34mcategory[39m" => "[32m1[39m",
+     ],
+   ]
+
